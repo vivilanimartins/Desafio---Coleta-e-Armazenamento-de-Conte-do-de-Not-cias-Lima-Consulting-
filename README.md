@@ -1,4 +1,4 @@
-Projeto Coleta e Armazenamento de Conteúdo de Notícias
+Projeto Coleta e Armazenamento de Conteúdo de Notícias do site BBC
 
 Instalação: Para executar esta aplicação, precisa instalar as seguintes dependências: FastAPI Pydantic BeautifulSoup Requests Pandas google-auth
 
